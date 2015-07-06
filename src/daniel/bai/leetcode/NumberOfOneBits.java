@@ -2,8 +2,8 @@ package daniel.bai.leetcode;
 
 public class NumberOfOneBits {
 	/*
-	 * LeetCode No. 191 Number of 1 Bits
-	 * 
+	 * LeetCode No. 191 
+	 * Number of 1 Bits
 	 * @author Daniel Bai
 	 */
 
