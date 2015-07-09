@@ -8,7 +8,11 @@ import java.util.Set;
 import daniel.bai.leetcode.util.Trie;
 
 public class WordSearchII {
-
+	/*
+	 * LeetCode No. 212
+	 * Word Search II
+	 * @author Daniel Bai
+	 */
     public List<String> findWords(char[][] board, String[] words) {
     	HashSet<String> res = new HashSet<String>();
         Trie trie = new Trie();
