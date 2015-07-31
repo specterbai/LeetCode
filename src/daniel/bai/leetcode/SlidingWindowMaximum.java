@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class SlidingWindowMaximum {
 	/*
-	 * LeetCode No. 240
+	 * LeetCode No. 239
 	 * Sliding Window Maximum
 	 * @author Daniel Bai
 	 */
